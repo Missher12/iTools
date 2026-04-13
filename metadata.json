@@ -1,0 +1,5 @@
+{
+  "name": "企业内网智能工具箱",
+  "description": "集成合同审计、合同生成、合同管理、Excel数据清洗以及本地Ollama AI助手的企业级内网工具箱。",
+  "requestFramePermissions": []
+}
